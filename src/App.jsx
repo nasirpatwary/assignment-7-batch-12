@@ -4,11 +4,9 @@ import Navbar from "./components/Navbar"
 const App = () => {
   return (
     <>
-    <div>
     <Navbar />
     <MainLayout />
     <Footer />
-    </div>
     </>
   )
 }
