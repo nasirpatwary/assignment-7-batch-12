@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@plugin "daisyui";
+
+
+
+body{
+  font-family: "Inter", sans-serif;
+}
+
+
+.gradient{
+  @apply bg-linear-to-l cursor-pointer from-[#9459f0] to-[#6933e5]
+}
+.gradient2{
+  @apply bg-linear-to-r cursor-pointer from-[#54d068] to-[#00827a]
+}

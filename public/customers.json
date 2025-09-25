@@ -1,0 +1,137 @@
+[
+  {
+    "id": "#1001",
+    "title": "Login Issue",
+    "description": "User unable to login with valid credentials.",
+    "customer": "Alice Johnson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20T10:15:00Z"
+  },
+  {
+    "id": "#1002",
+    "title": "Payment Failure",
+    "description": "Customer reported failed payment during checkout.",
+    "customer": "Michael Smith",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-19T12:30:00Z"
+  },
+  {
+    "id": "#1003",
+    "title": "UI Bug on Dashboard",
+    "description": "Dashboard widgets overlap on smaller screens.",
+    "customer": "Sara Lee",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-18T09:45:00Z"
+  },
+  {
+    "id": "#1004",
+    "title": "Email Not Sent",
+    "description": "Order confirmation emails not reaching customers.",
+    "customer": "David Brown",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2025-09-17T14:10:00Z"
+  },
+  {
+    "id": "#1005",
+    "title": "Slow Loading Page",
+    "description": "Homepage taking more than 5 seconds to load.",
+    "customer": "Emily Davis",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-16T16:20:00Z"
+  },
+  {
+    "id": "#1006",
+    "title": "Mobile App Crash",
+    "description": "App crashes when clicking on profile picture.",
+    "customer": "Chris Green",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-09-15T11:00:00Z"
+  },
+  {
+    "id": "#1007",
+    "title": "Search Function Error",
+    "description": "Search results not displaying correctly.",
+    "customer": "Anna White",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-14T18:45:00Z"
+  },
+  {
+    "id": "#1008",
+    "title": "Profile Update Failure",
+    "description": "Customer unable to update billing address.",
+    "customer": "Robert Wilson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-13T08:25:00Z"
+  },
+  {
+    "id": "#1009",
+    "title": "Broken Link",
+    "description": "Help center link redirects to 404 page.",
+    "customer": "Sophia Martinez",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2025-09-12T13:15:00Z"
+  },
+  {
+    "id": "#1010",
+    "title": "Discount Code Issue",
+    "description": "Promo code not applying at checkout.",
+    "customer": "Daniel Thompson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-11T17:50:00Z"
+  },
+  {
+    "id": "#1011",
+    "title": "Notification Delay",
+    "description": "Push notifications delayed by several minutes.",
+    "customer": "Olivia Harris",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-10T19:30:00Z"
+  },
+  {
+    "id": "#1012",
+    "title": "Cart Item Missing",
+    "description": "Items disappearing from shopping cart randomly.",
+    "customer": "James Clark",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-09-09T21:00:00Z"
+  },
+  {
+    "id": "#1013",
+    "title": "Language Switch Bug",
+    "description": "Language selection not saving user preference.",
+    "customer": "Isabella Lewis",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2025-09-08T10:40:00Z"
+  },
+  {
+    "id": "#1014",
+    "title": "Refund Not Processed",
+    "description": "Customer refund request still pending.",
+    "customer": "Ethan Walker",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-07T15:55:00Z"
+  },
+  {
+    "id": "#1015",
+    "title": "Password Reset Failure",
+    "description": "Reset password link expired immediately.",
+    "customer": "Mia Young",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-09-06T07:35:00Z"
+  }
+]
