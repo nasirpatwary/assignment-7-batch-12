@@ -19,7 +19,7 @@ const CardCustomer = ({service, handleTicket}) => {
                   <p className="text-[#627382]">
                     {service.description}
                   </p>
-                  <div className="flex flex-wrap items-center justify-between text-[#627382]">
+                  <div className="flex space-y-2 lg:space-y-0 flex-wrap items-center justify-between text-[#627382]">
                    <div className="space-x-4 text-sm font-medium">
                     <span>{service.id}</span>
                     <span className={`uppercase ${service.priority === "Low" ? "text-[#02A53B]" : service.priority === "High" ? "text-red-500" : "text-[#FEBB0C]" }`}>{service.priority} PRIRITY</span>
