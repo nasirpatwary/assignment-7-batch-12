@@ -6,7 +6,7 @@ const Cutomers = ({ services, handleTicket, ticket, resolved, handleCompleteTask
   return (
     <Container>
       <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4 mt-16">
-        <div className="lg:col-span-3">
+        <div className="lg:col-span-3 order-1 md:order-0">
           <h1 className="text-2xl font-semibold text-[#34485a]">
             Customer Tickets
           </h1>
